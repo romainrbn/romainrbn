@@ -4,7 +4,7 @@
          <img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/romainrbn?color=1DA1F2&label=Join%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge">
 </a>
 
-<br><br>
+<br>
 
 - 🔭 I’m currently working on a new mobile app, helping people in their daily commute.
 - 🌱 I’m currently learning Nodejs, iOS UI Testing and backend development. 
