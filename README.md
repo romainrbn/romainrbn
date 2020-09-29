@@ -5,9 +5,7 @@
 - 👨‍💻 You can find my projects on my [Linkedin](linkedin.com/in/romain-rabouan)
 - 📫 How to reach me: romain.rabouan@gmail.com / [@romainrbn](https://twitter.com/romainrbn)
 
-
-  <summary> - GitHub Stats</summary>
   
-  <img align="left" alt="romainrbn's GitHub Stats" src="https://github-readme-stats-2-rho.vercel.app/api?username=romainrbn&show_icons=true&hide_border=true"/>
+<img align="left" alt="romainrbn's GitHub Stats" src="https://github-readme-stats-2-rho.vercel.app/api?username=romainrbn&show_icons=true&hide_border=true"/>
   
 
