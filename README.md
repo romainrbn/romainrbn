@@ -8,6 +8,7 @@
 - 📫 How to reach me: romain.rabouan@gmail.com / [@romainrbn](https://twitter.com/romainrbn)
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
   
 <img align="left" alt="romainrbn's GitHub Stats" src="https://github-readme-stats-2-rho.vercel.app/api?username=romainrbn&show_icons=true&hide_border=true"/>
