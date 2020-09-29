@@ -6,7 +6,7 @@
 - 📫 How to reach me: romain.rabouan@gmail.com / [@romainrbn](https://twitter.com/romainrbn)
 
 
-  <summary>— GitHub Stats</summary>
+  <summary> - GitHub Stats</summary>
   
   <img align="left" alt="romainrbn's GitHub Stats" src="https://github-readme-stats-2-rho.vercel.app/api?username=romainrbn&show_icons=true&hide_border=true"/>
   
