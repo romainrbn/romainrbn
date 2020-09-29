@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Romain</h1>
+<h1 align="center">Hi, I'm Romain 👋</h1>
 
 <img src="https://img.shields.io/twitter/follow/romainrbn?color=1DA1F2&label=Join%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge"/>
 
