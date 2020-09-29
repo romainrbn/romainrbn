@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Romain 👋</h1>
 
-<img src="https://img.shields.io/twitter/follow/romainrbn?color=1DA1F2&label=Join%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge"/>
+<a href="https://www.twitter.com/">
+         <img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/romainrbn?color=1DA1F2&label=Join%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge"
 
 - 🔭 I’m currently working on a new mobile app, helping people in their daily commute.
 - 🌱 I’m currently learning Nodejs, iOS UI Testing and backend development. 
