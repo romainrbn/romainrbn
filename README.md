@@ -6,8 +6,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on a new mobile app, helping people in their daily commute.
-- 🌱 I’m currently learning iOS UI Testing and backend development with Python. 
+- 🔭 I’m currently working as an iOS Engineer at Withings in Paris, France 🗼.
 - 👨‍💻 You can find my projects on my [LinkedIn](linkedin.com/in/romain-rabouan)
 - 📫 How to reach me: romain.rabouan@gmail.com / [@romainrbn](https://twitter.com/romainrbn)
 
